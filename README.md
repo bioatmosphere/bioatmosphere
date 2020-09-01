@@ -1,4 +1,4 @@
-### Hi there 👋 , `I model the world`
+### Hi there 👋 , `I model the world !`
 
 <!--
 **bioatmosphere/bioatmosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
