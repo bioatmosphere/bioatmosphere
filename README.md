@@ -1,4 +1,4 @@
-### Hi there 👋 , `I am data-model-learning the complexity and simplicty of Ecosystems`
+### Hi there 👋 , `I am data-model-learning the complexity and simplicty of Ecosystems and their Digital Twins`
 
 <!--
 **bioatmosphere/bioatmosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
